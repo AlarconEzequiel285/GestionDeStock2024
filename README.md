@@ -1,3 +1,3 @@
 # GestionDeStock2024
 
-Trabajo Practico Integrador - Programación 2
+Trabajo Practico Integrador - Programación 3 (Definitivo)
